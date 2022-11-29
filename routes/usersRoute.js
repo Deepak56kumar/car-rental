@@ -35,6 +35,5 @@ router.post("/register", async(req, res) => {
 
 });
 
-// hello Deepak kumar
 module.exports = router
 
